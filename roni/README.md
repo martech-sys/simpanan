@@ -8,7 +8,7 @@ Brief: file `Perintah` di root repo. Isinya video 15–30 detik, format 9:16, de
 |---|---|
 | `konsep.json` | 10 naskah video: hook, 6 beat subtitle (masing-masing 3 detik), dan caption posting |
 | `render.py` | Merender semua konsep menjadi MP4 1080×1920, sekitar 20,5 detik per video |
-| `footage/` | Tempat footage RONI dari Google Drive (**belum ada, perlu diisi**) |
+| `footage/` | Footage RONI (`PEDAS GURIH UPI BDG.mp4`) |
 | `hasil/` | Output: `RONI-<id>.mp4` + `RONI-<id>.txt` (caption siap tempel) |
 
 ## 10 konsep
