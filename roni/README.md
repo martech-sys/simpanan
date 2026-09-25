@@ -15,16 +15,16 @@ Brief: file `Perintah` di root repo. Isinya video 15–30 detik, format 9:16, de
 
 | # | Hook | Jenis pancingan |
 |---|---|---|
-| 01 | TIM GURIH ITU CUMA TAKUT PEDAS | Debat pedas vs gurih |
-| 02 | AKU PUTUS SAMA RONI | Twist: RONI dihabisin temen |
+| 01 | TIM GURIH KALAH TELAK DI UPI | Skor asli footage: Pedas 12 vs Gurih 6 |
+| 02 | TIM GURIH ITU CUMA TAKUT PEDAS | Debat pedas vs gurih |
 | 03 | KELAS TANPA RONI = KELAS GAGAL | Klaim provokatif + tag ketua kelas |
 | 04 | MAKARONI MELEMPEM HARUSNYA DILARANG | Hot take tekstur crunchy |
-| 05 | DICARI: RONI, TERAKHIR DI KANTIN | Parodi poster "dicari" #FindingRONI |
-| 06 | "MAKARONI ITU MAKANAN BOCIL" | POV temen sok gengsi |
-| 07 | 3 TIPE ORANG DITAWARIN RONI | Listicle, "nomor 3 paling nyebelin" |
-| 08 | RONI > KOPI BUAT NUGAS | Unpopular opinion |
-| 09 | JANGAN PERNAH MINJEMIN RONI | Cerita relate + tag temen |
-| 10 | YANG NAMANYA RONI, KAMU DICARIIN | Gimik nama orang + tag temen bernama Roni |
+| 05 | DICARI: RONI TERAKHIR DI UPI BANDUNG | Parodi poster "dicari" #FindingRONI |
+| 06 | KATANYA ANAK UPI GAK KUAT PEDAS? | Bait-and-switch, dibantah skor 12–6 |
+| 07 | 3 TIPE ORANG DITAWARIN RONI | Listicle dari momen di footage |
+| 08 | UNPOPULAR OPINION: RONI > KOPI BUAT NUGAS | Unpopular opinion |
+| 09 | GAK ADA YANG AMBIL CUMA SATU | "Satu lagi cobain" dari footage + tag temen |
+| 10 | YANG NAMANYA RONI KAMU DICARIIN | Gimik nama orang + tag temen bernama Roni |
 
 Yang sudah dicek terhadap brief:
 - Setiap video menyebut info produk RONI: crunchy/renyah, rasa PEDAS/GURIH, atau slogan.
